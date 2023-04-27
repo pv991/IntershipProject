@@ -1,0 +1,23 @@
+.about .content {
+    text-align: justify;
+  }
+  .footer {
+    padding:5px 0px 5px 0px;
+    background-color: transparent;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+    width: 100%;
+    bottom: 0;
+    /* position: absolute; */
+  /* box-sizing: border-box; */
+  /* text-align: left; */
+  /* padding: 55px 50px; */
+  /* margin-top: 80px; */
+ 
+  }
+  footer p{ 
+      text-align: right;
+      margin: 0px;
+  }
+  
